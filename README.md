@@ -22,3 +22,5 @@ n8n-devops-automation/
 
 Architecture
 Jenkins → n8n Webhook → Logic → Telegram Alerts
+
+<img width="1132" height="816" alt="image" src="https://github.com/user-attachments/assets/b8f838b2-0826-438e-bbab-d5d3f512e64c" />
