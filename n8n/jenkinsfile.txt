@@ -1,0 +1,32 @@
+pipeline {
+    agent { label: "nodejs-agent" }      # change this 
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building application...'
+            }
+        }
+
+        stage('Notify n8n') {
+            steps {
+                script {
+                    def status = currentBuild.currentResult
+
+                    sh """
+                    curl -X POST ${N8N_WEBHOOK_URL} \            # add your n8n url workflow 
+                    -H "Content-Type: application/json" \
+                    -H "Authorization: ${N8N_SECRET}" \          # add n8n secret for authentication   
+                    -d '{
+                      "job_name": "${env.JOB_NAME}",
+                      "status": "${status}",
+                      "build_number": "${env.BUILD_NUMBER}",
+                      "duration": "${currentBuild.durationString}",
+                      "url": "${env.BUILD_URL}"
+                    }'
+                    """
+                }
+            }
+        }
+    }
+}
