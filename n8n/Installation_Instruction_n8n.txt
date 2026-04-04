@@ -1,0 +1,39 @@
+Using Docker compose
+
+Make sure you have docker compose is install on your ubuntu machine 
+
+if not you can check some of my repository to copy how to install docker or docker compose
+
+after docker compose is install
+
+create a folder 
+
+sudo mkdir n8n 
+
+cd  n8n
+
+sudo touch docker-compose-n8n.yml   
+
+copy the dockerfile into docker-compose-n8n.yml 
+
+inside n8n folder 
+
+docker compose -f docker-compose-n8n.yml up -d       # to start the n8n container 
+
+docker ps     # to check if the n8n container was successful created and running  
+
+
+access n8n home page : http://<Your_Ubuntu_ip>:5678  
+
+login to n8n with the username and password in dockerfile you created 
+
+i like using nginx proxy manager to customized url so that the ubuntu ip address will not be expose 
+
+that is the reasons i created 
+
+nginx_proxy network 
+
+you will see that in the docker file 
+
+Check out my repository to create Nginx Proxy Manager in short NPM 
+
