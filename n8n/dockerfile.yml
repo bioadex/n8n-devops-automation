@@ -1,0 +1,33 @@
+services:
+  n8n:
+    image: n8nio/n8n:2.13.4           # change this if you have a particular version you want to use 
+    container_name: n8n
+    restart: unless-stopped
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
+    environment:
+      - N8N_HOST=n8n.homeserver.aka-tech-it.info              #  change this
+      - N8N_PORT=5678                           # make sure this free and open 
+      - N8N_PROTOCOL=https
+
+      # Security (VERY important)
+      - N8N_BASIC_AUTH_ACTIVE=true
+      - N8N_BASIC_AUTH_USER=admin
+      - N8N_BASIC_AUTH_PASSWORD=changethis             # change this to strong password
+
+      # Timezone
+      - TZ=Europe/Berlin                  # change this
+
+    volumes:
+      - ./data:/home/node/.n8n
+
+    networks:
+      - nginx_proxy                      # change this 
+
+    ports:
+      - "5678:5678"  # optional (can remove later)
+
+networks:
+  nginx_proxy:
+    external: true
