@@ -30,6 +30,8 @@ screenshots
 
 <img width="1132" height="816" alt="image" src="https://github.com/user-attachments/assets/b8f838b2-0826-438e-bbab-d5d3f512e64c" />
 
+<img width="1294" height="931" alt="image" src="https://github.com/user-attachments/assets/6cc4e767-951b-4258-850e-4b98bd763432" />
+
 Telegram Screenshot
 
 <img width="489" height="230" alt="image" src="https://github.com/user-attachments/assets/ddced5dd-adcf-4bd2-96c6-f25a0153145d" />
