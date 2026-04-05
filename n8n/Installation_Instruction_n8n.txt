@@ -37,3 +37,26 @@ you will see that in the docker file
 
 Check out my repository to create Nginx Proxy Manager in short NPM 
 
+After login to the n8n 
+
+click on workflow to create a workflow give it a name that suit your project 
+
+after that click on + sign on the top right side search for Telegram 
+
+Telegram search for Send Message 
+
+After that you need to get CHAT ID from Telegram and BOT ID (Check my Repositiories on how to get this or Youtube or Chatgpt is your friend )
+
+after getting your CHAT ID and BOT ID you need to create a Credentials 
+
+click on Credentials 
+
+give credentials a name and add the CHAT ID and BOT ID (telegram API) in there require space 
+
+After CLICK SAVE you should get Connection SUCCESSFUL 
+
+if that works 
+
+You can run the Workflow 
+
+You should get a text message on your Telegram 
