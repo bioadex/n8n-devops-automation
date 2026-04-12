@@ -1,3 +1,5 @@
+# Production-ready DevOps automation system using n8n, Docker, Jenkins, and Telegram alerts.
+
 ```text
 n8n-devops-automation/
 │
