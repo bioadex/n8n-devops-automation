@@ -36,6 +36,10 @@ screenshots
 
 <img width="1490" height="943" alt="image" src="https://github.com/user-attachments/assets/77d1a673-dfcc-433c-bf64-e5efa0edc58b" />
 
+Create a ChatBot on n8n with ollama 
+<img width="781" height="681" alt="image" src="https://github.com/user-attachments/assets/0f4ac453-79fe-4871-9745-335cb6d6994a" />
+
+
 Telegram Screenshot
 
 <img width="489" height="230" alt="image" src="https://github.com/user-attachments/assets/ddced5dd-adcf-4bd2-96c6-f25a0153145d" />
