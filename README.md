@@ -9,6 +9,7 @@ n8n-devops-automation/
 ├── workflows/
 │   └── jenkins-alert-workflow.json
 │   └── Gmail-alert-workflow.json
+│   └── Telegram-alert-workflow.json
 │
 ├── jenkins/
 │   └── Jenkinsfile
@@ -44,6 +45,12 @@ Create a ChatBot on n8n with ollama
   Automate your gmail account you never need to check the mail you get a message via Telegram if there is Important message.
   You never missed an Important Message again. You can also set Auto-Reply and Set cron job to check your gmail account every 2 hours and give you report update what are inside your email. Like numbers of Messages you   have in the Inbox and so on.
   <img width="809" height="684" alt="image" src="https://github.com/user-attachments/assets/743fecd5-de7a-4403-a8aa-a8e23e9df6ac" />
+# Gmail Message Sent and Forwarded
+  <img width="1595" height="520" alt="image" src="https://github.com/user-attachments/assets/b676c2b3-8015-4ea6-b1cf-6f9a51de6392" />
+
+# Complete 100% n8n AI Agent Setup For Email Inbox Automation 
+  <img width="1123" height="768" alt="image" src="https://github.com/user-attachments/assets/a7f44391-8280-4040-a9bc-38b6fa9f42be" />
+
   
 # Telegram Screenshot via Email Checked Notification 
 <img width="447" height="39" alt="image" src="https://github.com/user-attachments/assets/3a40b3f7-d781-4879-8780-e60a9718704b" />
@@ -52,6 +59,9 @@ Create a ChatBot on n8n with ollama
 Telegram Screenshot
 
 <img width="489" height="230" alt="image" src="https://github.com/user-attachments/assets/ddced5dd-adcf-4bd2-96c6-f25a0153145d" />
+<img width="446" height="41" alt="image" src="https://github.com/user-attachments/assets/938a05d1-1525-42f6-832b-e3c6594c6a2d" />
 
 
+# Reference : 
+  https://www.youtube.com/watch?v=l0SiFihbetA&t=593s
 
