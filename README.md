@@ -61,6 +61,9 @@ Telegram Screenshot
 <img width="489" height="230" alt="image" src="https://github.com/user-attachments/assets/ddced5dd-adcf-4bd2-96c6-f25a0153145d" />
 <img width="446" height="41" alt="image" src="https://github.com/user-attachments/assets/938a05d1-1525-42f6-832b-e3c6594c6a2d" />
 
+# Automate Job Search with n8n 
+<img width="1618" height="636" alt="image" src="https://github.com/user-attachments/assets/1f00fc6e-c326-490a-a895-081c2806f82a" />
+
 
 # Reference : 
   https://www.youtube.com/watch?v=l0SiFihbetA&t=593s
