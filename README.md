@@ -1,4 +1,4 @@
-# Production-ready DevOps automation system using n8n, Docker, Jenkins, and Telegram alerts.
+# Production-ready DevOps automation system using n8n, Docker, Jenkins,Telegram alerts, DevOps, LLM, Ollama, API, PDF Generation, RSS Scraping, Email Automation and JavaScript Automation.
 
 ```text
 n8n-devops-automation/
