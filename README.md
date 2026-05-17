@@ -5,11 +5,13 @@ n8n-devops-automation/
 │
 ├── docker/
 │   └── docker-compose.yml
+│   └── job-search-automation.json
 │
 ├── workflows/
 │   └── jenkins-alert-workflow.json
 │   └── Gmail-alert-workflow.json
 │   └── Telegram-alert-workflow.json
+│   └── Generated-cover-letter-workflow.json
 │
 ├── jenkins/
 │   └── Jenkinsfile
@@ -17,6 +19,7 @@ n8n-devops-automation/
 ├── docs/
 │   ├── architecture.md
 │   ├── setup-guide.md
+│   ├── workflow-explanation.md
 │   └── screenshots/
 │
 ├── .env.example
