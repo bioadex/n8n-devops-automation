@@ -83,9 +83,9 @@ Create a ChatBot on n8n with ollama
 # n8n Gmail automation with Telegram Nofitication 
   Automate your gmail account you never need to check the mail you get a message via Telegram if there is Important message.
   You never missed an Important Message again. You can also set Auto-Reply and Set cron job to check your gmail account every 2 hours and give you report update what are inside your email. Like numbers of Messages you   have in the Inbox and so on.
-  <img width="809" height="684" alt="image" src="https://github.com/user-attachments/assets/743fecd5-de7a-4403-a8aa-a8e23e9df6ac" />
+ <img width="1171" height="745" alt="image" src="https://github.com/user-attachments/assets/0fec1e05-1b7b-404a-b17f-29bf1facea57" />
 # Gmail Message Sent Confirmation
-  <img width="1595" height="520" alt="image" src="https://github.com/user-attachments/assets/b676c2b3-8015-4ea6-b1cf-6f9a51de6392" />
+  <img width="1627" height="84" alt="image" src="https://github.com/user-attachments/assets/a5a3d1e0-64c2-43ef-9dc7-e7e5dd7ddec0" />
   <img width="1014" height="857" alt="image" src="https://github.com/user-attachments/assets/d365ded7-edb8-4041-b79b-5b19f02ca379" />
   <img width="833" height="475" alt="image" src="https://github.com/user-attachments/assets/45c7a53b-cd51-41b8-aabe-c3fb0fd9bbd4" />
 
