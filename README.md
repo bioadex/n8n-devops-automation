@@ -67,7 +67,7 @@ Architecture
 
 Jenkins → n8n Webhook → Logic → Telegram Alerts
 
-screenshots
+# screenshots
 
 <img width="1518" height="673" alt="image" src="https://github.com/user-attachments/assets/ffcf90a6-3a52-4d3f-88d4-a4e99aa6f685" />
 
@@ -77,8 +77,9 @@ screenshots
 
 <img width="1490" height="943" alt="image" src="https://github.com/user-attachments/assets/77d1a673-dfcc-433c-bf64-e5efa0edc58b" />
 
-Create a ChatBot on n8n with ollama 
-<img width="781" height="681" alt="image" src="https://github.com/user-attachments/assets/0f4ac453-79fe-4871-9745-335cb6d6994a" />
+# Create a ChatBot AI agent with Gemini Chat Model and Telegram Text Message 
+<img width="1653" height="866" alt="image" src="https://github.com/user-attachments/assets/f21c0c5f-d0e5-46ed-9ba9-41c6bd0cdf18" />
+<img width="476" height="759" alt="image" src="https://github.com/user-attachments/assets/d608df21-a621-491d-8f5c-16ae56df0f76" />
 
 # n8n Gmail automation with Telegram Nofitication 
   Automate your gmail account you never need to check the mail you get a message via Telegram if there is Important message.
@@ -102,7 +103,7 @@ Create a ChatBot on n8n with ollama
 # Automate Job Search with n8n 
 <img width="1854" height="901" alt="image" src="https://github.com/user-attachments/assets/a3af5359-730f-4222-b134-cb21f635dfe8" />
 
-Telegram Screenshot
+# Telegram Screenshot
 
 <img width="489" height="230" alt="image" src="https://github.com/user-attachments/assets/ddced5dd-adcf-4bd2-96c6-f25a0153145d" />
 <img width="446" height="41" alt="image" src="https://github.com/user-attachments/assets/938a05d1-1525-42f6-832b-e3c6594c6a2d" />
@@ -122,4 +123,5 @@ Telegram Screenshot
   https://www.youtube.com/watch?v=l0SiFihbetA&t=593s
   https://www.youtube.com/watch?v=LIzZRgfW4ok&t=344s
   https://www.youtube.com/watch?v=_dZVQuQIWMs
+  https://www.youtube.com/watch?v=ZU6llgh8nZI
 
